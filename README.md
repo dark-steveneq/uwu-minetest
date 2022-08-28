@@ -15,4 +15,4 @@ adding this mod to twusted
 
 
 <h1>How to uwse?</h1>
-usew with `server` pwivwage must exekawaii~ `/uwuify` c-command to toggwe u-uwuification
+usew with server pwivwage must exekawaii~ /uwuify c-command to toggwe u-uwuification
